@@ -21,6 +21,15 @@ Do it! C# 프로그래밍 입문
 * 실습03-12 : 암시적 형 변환 예 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source03_12.cs)
 * 실습03-13 : 명시적 형 변환 예 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source03_13.cs)
 ### 4장 클래스 알아보기
+* 실습04-01 : 인스턴스 생성하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_01.cs)
+* 실습04-02 : 클래스의 생성자 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_02.cs)
+* 실습04-03 : 생성자로 초기화하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_03.cs)
+* 실습04-04 : 오버로딩 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_04.cs)
+* 실습04-05 : 클래스의 소멸자 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_05.cs)
+* 실습04-06 : 클래스 상속하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_06.cs)
+* 실습04-07 : 메서드 오버라이딩 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_07.cs)
+* 실습04-08 : private, this 키워드 사용 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_08.cs)
+* 실습04-09 : 인스턴스 생성하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_09.cs)
 ### 5장 C# 실력 쌓기
 ### 6장 윈도우 프로그램 만들기
 ### 7장 웹 서비스 만들기
