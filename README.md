@@ -61,7 +61,7 @@ Do it! C# 프로그래밍 입문
 * 실습08-08 : 충돌 시 음향 효과 출력하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_08.cs)
 * 실습08-09 : 공격 애니메이션 스크립트 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_09.cs)
 ### 9장 아두이노로 사물인터넷 만들기
-* 실습09-01 : 시리얼 통신으로 LED를 제어하는 스케치 코드 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source09_01.cs)
+* 실습09-01 : 시리얼 통신으로 LED를 제어하는 스케치 코드 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source09_01.ino)
 * 실습09-02 : 시리얼 통신으로 LED를 제어하는 C# 코드 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source09_02.cs)
 ### 10장 C#의 새로운 기능
 
