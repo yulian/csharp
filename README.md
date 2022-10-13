@@ -51,5 +51,16 @@ Do it! C# 프로그래밍 입문
 * 실습06-05 : 계산기 프로그램 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_05.cs)
 ### 7장 웹 서비스 만들기
 ### 8장 유니티로 3D 게임 만들기
+* 실습08-01 : 변수 사용하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_01.cs)
+* 실습08-02 : 출력문 Update() 메서드로 옮기기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_02.cs)
+* 실습08-03 : 마우스 이벤트 처리하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_03.cs)
+* 실습08-04 : 숫자를 세는 프로그램 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_04.cs)
+* 실습08-05 : 방향키로 오브젝트 움직이기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_05.cs)
+* 실습08-06 : 이동과 점프 기능 구현 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_06.cs)
+* 실습08-07 : 충돌 메시지 출력 스크립트 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_07.cs)
+* 실습08-08 : 충돌 시 음향 효과 출력하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_08.cs)
+* 실습08-09 : 공격 애니메이션 스크립트 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_09.cs)
 ### 9장 아두이노로 사물인터넷 만들기
 ### 10장 C#의 새로운 기능
+
+
