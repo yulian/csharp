@@ -44,6 +44,11 @@ Do it! C# 프로그래밍 입문
 * 실습05-12 : try~catch 문으로 예외 처리하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source05_12.cs)
 * 실습05-13 : 예외 메시지 출력하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source05_13.cs)
 ### 6장 윈도우 프로그램 만들기
+* 실습06-01 : 버튼 클릭 이벤트 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_01.cs)
+* 실습06-02 : 로그인 버튼 클릭 이벤트 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_02.cs)
+* 실습06-03 : 숫자 맞히기 게임 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_03.cs)
+* 실습06-04 : 입력 버튼 클릭 이벤트 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_04.cs)
+* 실습06-05 : 계산기 프로그램 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_05.cs)
 ### 7장 웹 서비스 만들기
 ### 8장 유니티로 3D 게임 만들기
 ### 9장 아두이노로 사물인터넷 만들기
