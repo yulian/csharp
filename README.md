@@ -20,7 +20,7 @@ Do it! C# 프로그래밍 입문
 * 실습03-11 : 연산 결과 오버플로 오류 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source03_11.cs)
 * 실습03-12 : 암시적 형 변환 예 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source03_12.cs)
 * 실습03-13 : 명시적 형 변환 예 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source03_13.cs)
-* 도전코딩 : 섭씨 온도를 화씨 온도로 변환하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/challenge/Challenge03.cs)
+* 도전코딩03 : 섭씨 온도를 화씨 온도로 변환하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/challenge/Challenge03.cs)
 ### 4장 클래스 알아보기
 * 실습04-01 : 인스턴스 생성하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_01.cs)
 * 실습04-02 : 클래스의 생성자 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_02.cs)
