@@ -30,6 +30,7 @@ Do it! C# 프로그래밍 입문
 * 실습04-06 : 클래스 상속하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_06.cs)
 * 실습04-07 : 메서드 오버라이딩 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_07.cs)
 * 실습04-08 : private, this 키워드 사용 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source04_08.cs)
+* 도전코딩04 : 자동차 추상화하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/challenge/Challenge04.cs)
 ### 5장 C# 실력 쌓기
 * 실습05-01 : 배열 선언하고 값 출력하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source05_01.cs)
 * 실습05-02 : 배열 인덱스로 값 출력하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source05_02.cs)
