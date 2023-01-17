@@ -53,6 +53,7 @@ Do it! C# 프로그래밍 입문
 * 실습06-04 : 입력 버튼 클릭 이벤트 구현하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_04.cs)
 * 실습06-05 : 계산기 프로그램 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source06_05.cs)
 ### 7장 웹 서비스 만들기
+* 도전코딩07 : 요일을 출력하는 웹 서비스 만들기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/challenge/Index.cshtml)
 ### 8장 유니티로 3D 게임 만들기
 * 실습08-01 : 변수 사용하기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_01.cs)
 * 실습08-02 : 출력문 Update() 메서드로 옮기기 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source08_02.cs)
