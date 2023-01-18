@@ -110,3 +110,4 @@ Do it! C# 프로그래밍 입문
 * 실습10-40 : 전역 네임스페이스 설정(GlobalUsing.cs파일) -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source10_40.cs)
 * 실습10-41 : 메인 클래스(Main.cs파일) -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source10_41.cs)
 * 실습10-42 : Circle 클래스(Circle.cs파일) -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/example/Source10_42.cs)
+* 도전코딩10 : 일반화 프로그래밍 -> [바로가기 링크](https://github.com/yulian/csharp/blob/main/challenge/Challenge10.cs)
